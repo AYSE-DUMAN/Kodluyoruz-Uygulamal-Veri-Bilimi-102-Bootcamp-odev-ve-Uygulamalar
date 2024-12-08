@@ -1,4 +1,4 @@
-# Kodluyoruz Data Science 102 Bootcamp - Homework and Applications
+# Kodluyoruz-Data-Science-102-Bootcamp-Assignments-and-Applications
 
 This repository contains the homework and basic applications completed during the **Kodluyoruz Data Science 102 Bootcamp**. It includes various analyses and models built using deep learning and machine learning algorithms.
 
